@@ -2,8 +2,8 @@
 
 ## to do db:
 
-- [ ] write who rules in the hood,
-- [ ] add new file 
+- [X] write who rules in the hood,
+- [X] add new file 
 
 ## to do tg:
 
